@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644574204 source:c:\users\student.cipher\documents\guanto\simple calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
